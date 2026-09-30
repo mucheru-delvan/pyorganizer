@@ -1,2 +1,3 @@
 # pyorganizer
-Scripting python project
+Scripting Python Project
+ 
